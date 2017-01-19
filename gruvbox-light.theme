@@ -1,0 +1,6 @@
+[Scheme]
+Name=gruvbox-light
+ColorPalette=#fdf4c1;#cc241d;#98971a;#d79921;#458588;#b16286;#689d6a;#7c6f64;#928374;#9d0006;#79740e;#b57614;#076678;#8f3f71;#427b58;#3c3836
+ColorForeground=#3c3c38383636
+ColorBackground=#fffff305a26a
+ColorCursor=#d65bc4cd8ca1
